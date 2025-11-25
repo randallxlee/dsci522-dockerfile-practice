@@ -1,4 +1,4 @@
-# The GitHub actions workflow yml file is orifinally created by Tiffany Timbers in her repository: https://github.com/ttimbers/dsci522-dockerfile-practice.git
+# The GitHub actions workflow yml file is orifinally created by Tiffany Timbers in her [repository](https://github.com/ttimbers/dsci522-dockerfile-practice.git)
 
 Except where otherwise noted, the example programs and other software
 provided in the `dsci522-dockerfile-practice` repository are made available under the

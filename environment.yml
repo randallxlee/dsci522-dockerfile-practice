@@ -1,0 +1,9 @@
+name: lab_tues
+channels:
+- conda-forge
+dependencies:
+- python=3.11.14
+- pandas=2.3.3
+- conda-lock=3.0.4
+- numpy=2.3.5
+prefix: /Users/randalllee/miniforge3/envs/lab_tues

@@ -6,4 +6,3 @@ dependencies:
 - pandas=2.3.3
 - conda-lock=3.0.4
 - numpy=2.3.5
-prefix: /Users/randalllee/miniforge3/envs/lab_tues
